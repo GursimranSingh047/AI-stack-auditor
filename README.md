@@ -65,24 +65,6 @@ downgraded, or modified automatically — the system informs a decision, it does
 
 ---
 
-## Screenshots
-
-<div align="center">
-<table>
-<tr>
-<td width="50%"><img src="./screenshots/savings-dashboard.png" alt="Savings Dashboard" /><br/><sub><b>Savings Dashboard</b> — total savings, category breakdown, one click to download</sub></td>
-<td width="50%"><img src="./screenshots/agent-trace-panel.png" alt="Agent Trace Panel" /><br/><sub><b>Agent Trace Panel</b> — live reasoning, agent by agent</sub></td>
-</tr>
-<tr>
-<td width="50%"><img src="./screenshots/findings-view.png" alt="Findings View" /><br/><sub><b>Findings</b> — confidence-scored, traceable to source data</sub></td>
-<td width="50%"><img src="./screenshots/recommendations-view.png" alt="Recommendations View" /><br/><sub><b>Recommendations</b> — draft-only, explicit approval required</sub></td>
-</tr>
-</table>
-</div>
-
-> **Note:** To add screenshots, create a `screenshots/` folder in the repo root and place your images there with the names shown above, or update the paths to match your actual screenshot filenames.
-
----
 
 ## Architecture
 
